@@ -1,0 +1,5 @@
+1. A terminal is an interface that allows you to access the command line. We would want to use a terminal because it allows us to do a lot more things than we otherwise could.
+2. Tim Berners-Lee created HTTP in 1991.
+3. A client is a computer that is capable of recieving information from a server. A server is a computer program which manages access to a service on a network.
+HTTP works as a request-respone protocol between the server and the client. The client sends an HTTP request to a server and the server returns a response.
+4. GitHub.com
